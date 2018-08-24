@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name":"Girgaum Chowpatty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.81200230121613,
+          18.95458089377786
+        ]
+      }
+    }
+  ]
+}
